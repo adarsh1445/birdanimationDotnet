@@ -1,0 +1,24 @@
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.vbprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.Form1.resources
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.Resources.resources
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.vbproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.vbproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\bin\Debug\birdanimation.exe.config
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\bin\Debug\birdanimation.exe
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\bin\Debug\birdanimation.pdb
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\bin\Debug\birdanimation.xml
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.exe
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.xml
+C:\Users\ivanh\source\repos\exe2\birdanimation\birdanimation\obj\Debug\birdanimation.pdb
+D:\vb lab\birdanimation\birdanimation\bin\Debug\birdanimation.exe.config
+D:\vb lab\birdanimation\birdanimation\bin\Debug\birdanimation.exe
+D:\vb lab\birdanimation\birdanimation\bin\Debug\birdanimation.pdb
+D:\vb lab\birdanimation\birdanimation\bin\Debug\birdanimation.xml
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.vbprojAssemblyReference.cache
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.Form1.resources
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.Resources.resources
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.vbproj.GenerateResource.cache
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.vbproj.CoreCompileInputs.cache
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.exe
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.xml
+D:\vb lab\birdanimation\birdanimation\obj\Debug\birdanimation.pdb
